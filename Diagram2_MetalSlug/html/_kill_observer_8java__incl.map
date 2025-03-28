@@ -1,0 +1,15 @@
+<map id="impl/KillObserver.java" name="impl/KillObserver.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="544,5,692,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,177,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="543,32,386,53,192,82,191,77,385,47,542,26"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="201,80,373,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="566,35,387,78,386,73,565,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="397,80,609,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="601,35,546,73,543,69,598,30"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="632,80,832,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="637,30,692,69,689,73,634,35"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="856,80,1056,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="672,30,855,73,854,79,670,35"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1080,88,1315,115"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="693,27,1069,77,1103,82,1102,88,1068,83,692,32"/>
+</map>

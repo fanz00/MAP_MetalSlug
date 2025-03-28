@@ -1,0 +1,11 @@
+<map id="di.uniba.map.b.adventure.type.AdvObject.AdvObject" name="di.uniba.map.b.adventure.type.AdvObject.AdvObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="501,72,701,115"/>
+<area shape="rect" id="Node000002" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1type_1_1_adv_object_container.html#a0158d14466fde23c17c6e3d9056df716" title=" " alt="" coords="253,5,453,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,70,434,51,436,46,505,65"/>
+<area shape="rect" id="Node000004" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1type_1_1_adv_object.html#a1278661f5736763873ab3407d7464486" title=" " alt="" coords="253,72,453,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="486,96,453,96,453,91,486,91"/>
+<area shape="rect" id="Node000005" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1type_1_1_adv_object_container.html#a7dbd9be2cfed60da4da3f17f95a667f8" title=" " alt="" coords="253,139,453,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="505,122,436,141,434,135,504,117"/>
+<area shape="rect" id="Node000003" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1impl_1_1_metal_slug.html#a142a97d3a0772586b7f156e31242779d" title=" " alt="" coords="5,5,205,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,29,205,29,205,24,237,24"/>
+</map>

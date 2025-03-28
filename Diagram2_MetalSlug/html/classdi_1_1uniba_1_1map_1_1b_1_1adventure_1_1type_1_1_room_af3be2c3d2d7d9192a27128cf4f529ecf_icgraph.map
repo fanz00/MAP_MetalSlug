@@ -1,0 +1,9 @@
+<map id="di.uniba.map.b.adventure.type.Room.setLook" name="di.uniba.map.b.adventure.type.Room.setLook">
+<area shape="rect" id="Node000001" title=" " alt="" coords="253,72,453,115"/>
+<area shape="rect" id="Node000002" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1impl_1_1_metal_slug.html#a142a97d3a0772586b7f156e31242779d" title=" " alt="" coords="5,5,205,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,70,186,51,188,46,257,65"/>
+<area shape="rect" id="Node000003" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1impl_1_1_kill_observer.html#a6f74bf9bc7ff679eccfe9c50177f2003" title=" " alt="" coords="5,72,205,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,96,205,96,205,91,237,91"/>
+<area shape="rect" id="Node000004" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1impl_1_1_pick_up_observer.html#a859e7f0b50a281e571a85ef872ee1374" title=" " alt="" coords="5,139,205,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,122,188,141,186,135,255,117"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="di.uniba.map.b.adventure.impl.MoveObserver.update" name="di.uniba.map.b.adventure.impl.MoveObserver.update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,305,205,348"/>
+<area shape="rect" id="Node000002" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1parser_1_1_parser_output.html#a94f39efa449452a2cde5aabf835cb261" title=" " alt="" coords="258,5,470,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,304,126,253,155,187,196,118,222,86,251,58,256,54,259,59,254,62,225,89,200,121,159,190,131,255,115,306"/>
+<area shape="rect" id="Node000003" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1_game_description.html#a63b6f071dc00caa521638067b84ce514" title=" " alt="" coords="253,72,475,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,304,134,265,164,217,204,167,251,125,258,120,261,125,254,129,208,171,169,220,139,268,119,306"/>
+<area shape="rect" id="Node000004" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1type_1_1_room.html#a871df0fac0c88f087b8d79b2b3926d8a" title=" " alt="" coords="264,139,464,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,303,177,247,212,217,251,191,262,186,264,190,254,196,216,221,180,251,126,307"/>
+<area shape="rect" id="Node000006" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1type_1_1_room.html#a6d2b699bd2d7d3385fa760066fc76a50" title=" " alt="" coords="264,205,464,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,302,252,258,271,251,273,256,254,262,152,307"/>
+<area shape="rect" id="Node000007" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1type_1_1_room.html#a478093c0b598f8a97042a4b2e19b162f" title=" " alt="" coords="264,272,464,315"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="205,311,248,306,248,311,205,316"/>
+<area shape="rect" id="Node000008" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1type_1_1_room.html#a972c4b5100c8c38935e6f414841e6262" title=" " alt="" coords="264,339,464,381"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="205,337,248,342,248,348,205,342"/>
+<area shape="rect" id="Node000009" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1type_1_1_command.html#aec1582f0d37d094451b1ff3db9c36679" title=" " alt="" coords="264,405,464,448"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="152,346,254,391,273,398,271,403,252,396,149,351"/>
+<area shape="rect" id="Node000010" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1type_1_1_room.html#a16872a87978eb41609561215fe1c10f1" title=" " alt="" coords="264,472,464,515"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="126,346,180,402,216,432,254,458,264,463,262,468,251,462,212,436,177,406,123,350"/>
+<area shape="rect" id="Node000011" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1type_1_1_room.html#a13eeeee5260980e1f95150f26d632664" title=" " alt="" coords="264,539,464,581"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="119,347,139,385,169,433,208,482,254,525,261,529,258,533,251,529,204,486,164,436,134,388,114,350"/>
+<area shape="rect" id="Node000012" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1_game_description.html#adc3220b5f1adbcd7115d0a2f230f054d" title=" " alt="" coords="253,605,475,648"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="115,348,131,398,159,464,200,532,225,564,254,591,259,595,256,599,251,595,222,567,196,535,155,466,126,400,110,349"/>
+<area shape="rect" id="Node000005" href="$classdi_1_1uniba_1_1map_1_1b_1_1adventure_1_1type_1_1_room.html#abacf16b0d0e836274a9d38461a95a346" title=" " alt="" coords="523,305,723,348"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="452,179,476,191,511,214,543,240,596,292,592,296,540,244,508,218,474,196,450,184"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="465,304,508,309,507,314,464,309"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="464,344,507,339,508,344,465,350"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="450,469,474,458,508,435,540,409,592,358,596,361,543,413,511,439,476,462,452,474"/>
+</map>

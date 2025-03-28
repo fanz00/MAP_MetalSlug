@@ -1,0 +1,13 @@
+<map id="impl/InventoryObserver.java" name="impl/InventoryObserver.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="444,5,628,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,177,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="460,35,192,82,191,77,459,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="201,80,413,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="501,35,381,77,380,72,500,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="436,80,636,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="539,32,539,65,534,65,534,32"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="660,80,860,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="572,30,689,72,688,77,570,35"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="884,80,1055,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="610,30,869,77,868,82,609,35"/>
+</map>

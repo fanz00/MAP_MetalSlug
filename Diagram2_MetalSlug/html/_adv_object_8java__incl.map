@@ -1,0 +1,9 @@
+<map id="type/AdvObject.java" name="type/AdvObject.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="128,5,268,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,114,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,35,99,75,96,70,173,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,80,259,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,33,201,64,196,64,196,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="282,80,373,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,30,293,70,290,74,219,35"/>
+</map>

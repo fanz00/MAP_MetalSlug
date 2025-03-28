@@ -1,0 +1,25 @@
+<map id="impl/MetalSlug.java" name="impl/MetalSlug.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1141,5,1276,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,177,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1140,23,975,27,742,36,472,54,192,83,192,77,471,49,742,31,975,22,1140,18"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="201,80,413,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1141,26,836,44,635,61,428,82,428,77,635,55,836,39,1140,20"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="436,80,636,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1140,28,927,49,652,82,652,77,926,44,1140,23"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="660,80,860,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1141,35,876,82,875,77,1140,30"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="884,80,1084,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1174,35,1057,77,1055,72,1172,30"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1108,80,1308,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1211,32,1211,65,1206,65,1206,32"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1332,88,1567,115"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1247,30,1399,80,1397,85,1245,35"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1591,88,1714,115"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1277,26,1417,47,1580,77,1595,81,1594,86,1578,83,1416,52,1276,31"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1737,88,1829,115"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1277,20,1479,37,1603,54,1726,77,1738,80,1736,86,1725,83,1602,59,1479,43,1276,26"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1853,80,2025,123"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1277,21,1520,40,1677,56,1839,77,1838,83,1676,62,1520,46,1276,27"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="2049,80,2221,123"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1276,19,1599,35,1813,52,2034,77,2034,83,1813,58,1599,41,1276,25"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="impl/RESTClient.java" name="impl/RESTClient.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="799,5,946,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,88,161,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="799,26,523,43,348,60,173,83,149,87,148,82,172,77,347,55,522,38,798,20"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="185,88,368,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="799,30,609,51,381,83,354,87,353,82,380,77,608,46,798,25"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="392,88,582,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="812,35,563,87,562,82,811,30"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="606,88,768,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="844,35,731,84,729,79,842,30"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="792,80,953,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="875,32,875,65,870,65,870,32"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="977,88,1138,115"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="902,30,1016,79,1014,84,900,35"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1163,88,1352,115"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="934,30,1182,82,1181,87,932,35"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1376,88,1560,115"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="947,25,1136,46,1365,77,1392,82,1391,87,1364,83,1136,51,946,30"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1585,88,1765,115"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="946,21,1222,40,1397,56,1573,77,1601,82,1601,87,1572,83,1396,61,1222,45,946,26"/>
+</map>

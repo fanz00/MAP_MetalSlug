@@ -1,0 +1,13 @@
+<map id="parser/Parser.java" name="parser/Parser.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="461,5,588,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,177,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="461,34,192,82,191,77,460,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="200,80,400,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="490,35,373,77,371,72,488,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="424,80,624,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="527,32,527,65,522,65,522,32"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="648,88,739,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="552,30,655,79,653,84,550,35"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="763,88,854,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="577,30,752,77,760,80,759,85,750,83,576,35"/>
+</map>

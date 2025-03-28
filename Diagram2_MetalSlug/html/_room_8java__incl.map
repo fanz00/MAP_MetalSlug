@@ -1,0 +1,9 @@
+<map id="type/Room.java" name="type/Room.java">
+<area shape="rect" id="Node000001" title=" " alt="" coords="205,5,318,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,177,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,35,150,75,147,71,234,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="200,88,323,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,32,264,73,259,73,259,32"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="347,88,438,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,30,361,77,358,82,281,35"/>
+</map>
