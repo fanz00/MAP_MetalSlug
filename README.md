@@ -7,11 +7,12 @@
 <br>
 
 
-> ### 🟥 Per avviare correttamente il gioco, è necessario prima eseguire il programma `RESTClient` (presente all'interno della repository) e lasciarlo in esecuzione (runtime).  
-> ### 🟥 Successivamente, è possibile avviare il gioco aprendo il progetto MetalSlug ed eseguendo la classe `Engine.java`.
+> ### 🟥 Per avviare correttamente il gioco, è necessario prima eseguire il programma `RESTServer` (presente all'interno della repository) e lasciarlo in esecuzione (runtime).  
+> ### 🟥 Successivamente, è possibile avviare il gioco aprendo il progetto `adventure` ed eseguendo la classe `Engine.java`.
 
 
 <br>
+
 ## 📚 Introduzione
 
 In questo progetto ho usato la trama di **Metal Slug** per creare una avventura testauele interattiva progettata per l'esame di "Metodi Avanzati di Programmazione". Questa applicazione è sviluppata interamente in Java e offre un'esperienza di gioco coinvolgente attraverso un'interfaccia grafica (GUI). 
