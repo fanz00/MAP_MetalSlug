@@ -41,6 +41,8 @@ public class Window extends JFrame
     JButton exitWithoutSaveButton;
     JButton showLeaderBoardButton;
     JLabel comandoLabel;
+    JButton tutorialButton;
+
 
     Image image;
     Image resizedImage;
@@ -204,8 +206,7 @@ public class Window extends JFrame
         timePlay.setLocation(20, 60);
         timePlay.setVisible(false);
         timePlay.setBorder(BorderFactory.createLineBorder(Color.BLACK, 1));
-        panel.add(timePlay);
-        panel.setComponentZOrder(timePlay, 0);
+
 
         // Creare un contatore per i secondi
         // Sposta qui la definizione di elapsedSeconds
@@ -248,18 +249,56 @@ public class Window extends JFrame
             testo.setEditable(true);
             messageTextArea.setVisible(true);
             scrollPane.setVisible(false);
-            timePlay.setVisible(true);
             pauseButton.setVisible(true);
             newGameButton.setVisible(false);
             loadGameButton.setVisible(false);
             showLeaderBoardButton.setVisible(false);
             leaderBoard.setVisible(false);
             testo.setFocusable(true);
+            tutorialButton.setVisible(true);
             testo.requestFocusInWindow();
             timer.start();
 
         });
 //\JButton newGameButton-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+//\JButton Tutorial -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+        tutorialButton = new JButton("?");
+        tutorialButton.setFont(new Font("Comic Sans MS", Font.BOLD, 14));
+        tutorialButton.setForeground(Color.BLACK);
+        tutorialButton.setBackground(Color.ORANGE);
+        tutorialButton.setFocusPainted(false);
+        tutorialButton.setBorderPainted(true);
+        tutorialButton.setContentAreaFilled(true);
+        tutorialButton.setOpaque(true);
+        tutorialButton.setSize(45, 45);
+        tutorialButton.setLocation(40, 40); // In alto a sinistra
+        tutorialButton.setBorder(BorderFactory.createLineBorder(Color.BLACK, 1));
+        tutorialButton.setVisible(false);
+        panel.add(tutorialButton);
+        panel.setComponentZOrder(tutorialButton, 0);
+
+
+        tutorialButton.addActionListener((ActionEvent e) -> {
+            String comandi = "COMANDI DISPONIBILI:\n\n"
+                    + "• NORD\n"
+                    + "• SUD\n"
+                    + "• OVEST\n"
+                    + "• EST\n"
+                    + "• OSSERVA\n"
+                    + "• RACCOGLI\n"
+                    + "• LEGGI\n"
+                    + "• ACCENDI\n"
+                    + "• ACCEDI\n"
+                    +" • SPARA";
+
+            JOptionPane.showMessageDialog(Window.this, comandi, "Tutorial", JOptionPane.INFORMATION_MESSAGE);
+        });
+
+//\JButton Tutorial -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -308,13 +347,13 @@ public class Window extends JFrame
                     comandoLabel.setVisible(true);
                     messageTextArea.setVisible(true);
                     scrollPane.setVisible(false);
-                    timePlay.setVisible(true);
                     pauseButton.setVisible(true);
                     newGameButton.setVisible(false);
                     loadGameButton.setVisible(false);
                     showLeaderBoardButton.setVisible(false);
                     leaderBoard.setVisible(false);
                     testo.setFocusable(true);
+                    tutorialButton.setVisible(true);
                     testo.requestFocusInWindow();
                     timer.start();
 
