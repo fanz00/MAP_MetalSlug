@@ -19,3 +19,10 @@ MonsterAlive:true
 IsDoorOpen:false
 Inventory:
 ---
+GameName:prova
+ElapsedSeconds:12
+CurrentRoom:2
+MonsterAlive:true
+IsDoorOpen:false
+Inventory:
+---

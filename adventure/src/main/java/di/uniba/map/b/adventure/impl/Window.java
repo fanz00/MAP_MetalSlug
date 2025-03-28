@@ -621,8 +621,8 @@ public class Window extends JFrame
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         leaderBoard=new JTextArea();
         leaderBoard.setOpaque(true);
-        leaderBoard.setSize(320, 170);
-        leaderBoard.setLocation(50, 50);
+        leaderBoard.setSize(320, 300);
+        leaderBoard.setLocation(120, 50);
         leaderBoard.setEditable(false); // Rende la JTextArea non modificabile
         leaderBoard.setBorder(BorderFactory.createLineBorder(Color.BLACK, 1));
         leaderBoard.setForeground(Color.BLACK);
