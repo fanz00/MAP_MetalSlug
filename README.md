@@ -5,6 +5,12 @@
 **Questo progetto è è stato creato prendedno spunto da uno dei miei giochi arcade favoriti degli anni 2000 ... Metal Slug**<br>
 **Molti dettagli  del gioco originale sono stati  presi e riadatti in modo tale da poter essere coerente con l'avventura testuale**.
 <br>
+
+
+> ### 🟥 Per avviare correttamente il gioco, è necessario prima eseguire il programma `RESTClient` (presente all'interno della repository) e lasciarlo in esecuzione (runtime).  
+> ### 🟥 Successivamente, è possibile avviare il gioco aprendo il progetto MetalSlug ed eseguendo la classe `Engine.java`.
+
+
 <br>
 ## 📚 Introduzione
 
